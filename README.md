@@ -18,7 +18,7 @@ A Configr é a forma mais simples e fácil de gerenciar tudo que sua empresa pre
  * Conhecimentos sobre hospedagem de sites.
  * Habilidades interpessoais para relacionamento com clientes.
  * Vontade de desenvolver uma carreira em uma empresa 100% de internet.
- * isponibilidade de inicio imediato.
+ * Disponibilidade de inicio imediato.
 
 ##### Diferenciais
 
