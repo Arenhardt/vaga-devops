@@ -6,7 +6,7 @@ A Configr é a forma mais simples e fácil de gerenciar tudo que sua empresa pre
 ##### Responsabilidades
 
  * Responsável pelo processo de implantação/migração de novos ambientes cloud.
- * Utilização, criação e atualização de ferramentas de automação de tarefas.
+ * Desenvolvimento e utilização de ferramentas de automação de tarefas.
  * Intermediação entre o cliente e a equipe interna.
 
 ##### Qualificações
