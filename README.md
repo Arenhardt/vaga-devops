@@ -1,4 +1,5 @@
 # ![configr](https://raw.github.com/configr/vaga-devops/master/logo.png "configr")
+![DOMO](https://media.configr.com/static/website/new/images/selo.png?1502971853 "Domo")
 
 A Configr é a forma mais simples e fácil de gerenciar tudo que sua empresa precisa na internet: websites, domínios e emails. Através da Configr cada empresa utiliza servidores exclusivos na nuvem, sem precisar de conhecimentos técnicos e com o mínimo esforço possível, enquanto nosso sistema automático monitora sua parte de tecnologia para garantir melhor performance, maior estabilidade e menores custos para crescer seu negócio.
 
