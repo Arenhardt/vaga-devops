@@ -32,7 +32,7 @@ A Configr é a forma mais simples e fácil de gerenciar tudo que sua empresa pre
 
  * Ser parte de um empreendimento dinâmico e inovador.
  * Ambiente informal (mas profissional) e modo de trabalho flexível.
- * scritório novinho e de fácil acesso.
+ * Escritório novinho e de fácil acesso.
  * Opção de carreira e efetivação.
 
 
